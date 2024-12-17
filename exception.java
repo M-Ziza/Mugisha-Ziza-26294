@@ -1,11 +1,3 @@
-/**
- * Assignment: Exception Handling in Java
- * Author: Mugisha Ziza
- * Description:
- * This file contains simplified examples of common exceptions in Java. Each exception is triggered intentionally
- * and handled using try-catch blocks to help new learners understand exception handling.
- */
-
 // Import necessary classes
 import java.io.*;
 import java.sql.*;
